@@ -2,8 +2,8 @@
 //  appmallUITests.m
 //  appmallUITests
 //
-//  Created by 王博 on 14/04/2018.
-//  Copyright © 2018 王博. All rights reserved.
+//  Created by majun on 2018/4/14.
+//  Copyright © 2018年 com.tcsw.tkzy. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
