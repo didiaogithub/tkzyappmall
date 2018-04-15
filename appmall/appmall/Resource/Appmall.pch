@@ -1,0 +1,21 @@
+//
+//  Appmall.pch
+//  appmall
+//
+//  Created by 王博 on 15/04/2018.
+//  Copyright © 2018 com.tcsw.tkzy. All rights reserved.
+//
+
+#ifndef Appmall_pch
+#define Appmall_pch
+
+#import "UIView+MJExtension.h"
+#import "UIImage+ImageWithColor.h"
+#import "NewFeatureViewController.h"
+#import "TextResource.h"
+#import <AFNetworking.h>
+#import <MBProgressHUD.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Appmall_pch */
