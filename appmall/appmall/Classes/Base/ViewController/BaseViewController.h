@@ -11,9 +11,9 @@
 
 
 
-
+#import "JGProgressHUD.h"
 @interface BaseViewController : UIViewController
-
+@property (nonatomic, strong) JGProgressHUD *viewNetError;
 - (void) showPromptViewWithText: (NSString *) text ;
 - (void) showPromptViewWithText: (NSString *) text hideAfter: (NSTimeInterval) interval ;
 - (void) showPromptText: (NSString *) text hideAfterDelay: (NSTimeInterval) interval;
@@ -27,5 +27,6 @@
 - (void) showPromptText: (NSString *) text;
 - (void) hidePromptText;
 - (void) hideLoadingView;
-
+//添加提示view
+- (void)showNoticeView:(NSString*)title;
 @end

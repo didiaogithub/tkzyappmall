@@ -248,4 +248,15 @@
 - (void) showPromptViewWithText: (NSString *) text hideAfter: (NSTimeInterval) interval {
     [self showPromptText: text hideAfterDelay: interval];
 }
+
+//添加提示view
+- (void)showNoticeView:(NSString*)title
+{
+    if (self.viewNetError && !self.viewNetError.visible) {
+        self.viewNetError.textLabel.text = title;
+        [self.viewNetError showInView:[UIApplication sharedApplication].keyWindow];
+        [self.viewNetError dismissAfterDelay:1.0f];
+    }
+}
+
 @end

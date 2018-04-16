@@ -6,4 +6,8 @@ inhibit_all_warnings! #忽略第三方代码警告
 target 'appmall' do
   pod 'AFNetworking', '~> 3.1.0'
   pod 'MBProgressHUD', '~> 0.6'
+  pod 'Masonry', '~> 1.1.0'
+  pod 'SDWebImage', '~> 4.2.3’
+  pod 'Realm', '~> 3.2.0’
+  pod 'JGProgressHUD', '~> 1.4’
 end
