@@ -1359,7 +1359,6 @@
 		2D0723B92082FA570030996F /* Lib */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
 				F2FE5C862084FB8800837C02 /* JSTextView.h */,
 				F2FE5C852084FB8800837C02 /* JSTextView.m */,
 				F2FE5BE92084FB4C00837C02 /* HXWeiboPhotoPicker */,
@@ -1369,11 +1368,9 @@
 				F2FE5B7E2084EE4500837C02 /* UIButton+XN.h */,
 				F2FE5B7F2084EE4500837C02 /* UIButton+XN.m */,
 				F2FE5BB020847920006E274A /* Tools */,
-=======
 				2D0726CD2084D1820030996F /* LoadData.h */,
 				2D0726CC2084D1820030996F /* LoadData.m */,
 				2D07267F208311CE0030996F /* searchBar */,
->>>>>>> 1e21bc41dac1687dce3dd73ef712d528302601c7
 				2D0723DA2082FC6A0030996F /* UIView+MJExtension.h */,
 				2D0723D92082FC6A0030996F /* UIView+MJExtension.m */,
 				2D0723DD2082FDD00030996F /* UIImage+ImageWithColor.h */,
@@ -3248,7 +3245,6 @@
 				F2FE5B572084EB8300837C02 /* HeaderCollectionReusableView.m in Sources */,
 				F2FE5BE82084F97700837C02 /* FFAlertView.m in Sources */,
 				2D0723B62082FA050030996F /* main.m in Sources */,
-<<<<<<< HEAD
 				F2FE5B6C2084EB8300837C02 /* SCCommentGoodsCell.m in Sources */,
 				F2FE5BAE2084764F006E274A /* CellModel.m in Sources */,
 				F2FE5B562084EB8300837C02 /* SCMyPrizeModel.m in Sources */,
@@ -3257,11 +3253,9 @@
 				F2FE5BF320847921006E274A /* CleanCache.m in Sources */,
 				F2FE5B6E2084EB8300837C02 /* DetailLogistTableViewCell.m in Sources */,
 				F2FE5B742084EB8300837C02 /* SCOrderDetailCell.m in Sources */,
-=======
 				2D0726CE2084D1820030996F /* LoadData.m in Sources */,
 				2D07268F20832B1C0030996F /* HomeMenuItemView.m in Sources */,
 				2D0726B62083926B0030996F /* HonourDetailViewController.m in Sources */,
->>>>>>> 1e21bc41dac1687dce3dd73ef712d528302601c7
 				2D0723DF2082FDD00030996F /* UIImage+ImageWithColor.m in Sources */,
 				F2FE5B4C2084EB8300837C02 /* SCRecommendRewardVC.m in Sources */,
 				F2FE5B542084EB8300837C02 /* SCMyPrizeViewController.m in Sources */,
@@ -3291,7 +3285,6 @@
 				2D0726B12083924B0030996F /* MedieaDetailViewController.m in Sources */,
 				2D072672208311BE0030996F /* DWQSearchBar.m in Sources */,
 				2D0723F22082FEE40030996F /* CollegeViewController.m in Sources */,
-<<<<<<< HEAD
 				F2FE5B442084EB8300837C02 /* DistrictViewController.m in Sources */,
 				F2FE5B5F2084EB8300837C02 /* PaySuccessViewController.m in Sources */,
 				F2FE5B692084EB8300837C02 /* SCMyOrderModel.m in Sources */,
@@ -3369,7 +3362,6 @@
 				F2FE5C7C2084FB4C00837C02 /* HXVideoPresentTransition.m in Sources */,
 				F2FE5C5C2084FB4C00837C02 /* HXCustomCameraViewController.m in Sources */,
 				F2FE5B4B2084EB8300837C02 /* SCMyCouponViewController.m in Sources */,
-=======
 				2D07267C208311CB0030996F /* HistorySearchCell.m in Sources */,
 				2D07267B208311CB0030996F /* DWQTagView.m in Sources */,
 				2D072682208325E20030996F /* WBAdsImgView.m in Sources */,
@@ -3385,7 +3377,6 @@
 				2D072671208311BE0030996F /* UIViewExt.m in Sources */,
 				2D0726A2208332360030996F /* RecommendViewCell.m in Sources */,
 				2D0726C520839EE50030996F /* MessageViewController.m in Sources */,
->>>>>>> 1e21bc41dac1687dce3dd73ef712d528302601c7
 				2D0723B12082F9EF0030996F /* NewFeatureViewController.m in Sources */,
 				F2FE5BC72084F57A00837C02 /* YYKVStorage.m in Sources */,
 				F2FE5B792084EB8300837C02 /* SCDeleteView.m in Sources */,
@@ -3442,14 +3433,11 @@
 				F2FE5BF620847921006E274A /* NSString+Chatacters.m in Sources */,
 				F2FE5BE22084F8AA00837C02 /* SCIntegraModel.m in Sources */,
 				2D0723B02082F9EF0030996F /* BaseViewController.m in Sources */,
-<<<<<<< HEAD
 				F2FE5C6F2084FB4C00837C02 /* HXPhotoManager.m in Sources */,
 				F2FE5B432084EB8300837C02 /* CityViewController.m in Sources */,
-=======
 				2D0726882083277A0030996F /* BaseModel.m in Sources */,
 				2D0726BB2083928A0030996F /* MedieaListViewCell.m in Sources */,
 				2D0726A72083371B0030996F /* RecommendCollectionViewCell.m in Sources */,
->>>>>>> 1e21bc41dac1687dce3dd73ef712d528302601c7
 				2D0723E82082FEC10030996F /* MineViewController.m in Sources */,
 				F2FE5BDA2084F87900837C02 /* SCPointExplainCell.m in Sources */,
 				F2FE5C592084FB4C00837C02 /* HXCircleProgressView.m in Sources */,
