@@ -101,7 +101,6 @@ THE SOFTWARE.</string>
 		</dict>
 		<dict>
 			<key>FooterText</key>
-<<<<<<< HEAD
 			<string>Copyright (c) 2011-2012 Masonry Team - https://github.com/Masonry
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -389,9 +388,6 @@ regulations.
 		<dict>
 			<key>FooterText</key>
 			<string>Copyright (c) 2009-2017 Olivier Poitrey rs@dailymotion.com
-=======
-			<string>Copyright (c) 2016 Olivier Poitrey rs@dailymotion.com
->>>>>>> 1e21bc41dac1687dce3dd73ef712d528302601c7
  
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

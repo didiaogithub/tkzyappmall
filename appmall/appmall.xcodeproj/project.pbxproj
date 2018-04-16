@@ -9,11 +9,9 @@
 /* Begin PBXBuildFile section */
 		2D0723B02082F9EF0030996F /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723AC2082F9EE0030996F /* BaseViewController.m */; };
 		2D0723B12082F9EF0030996F /* NewFeatureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723AF2082F9EF0030996F /* NewFeatureViewController.m */; };
-		2D0723B52082FA050030996F /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723B22082FA050030996F /* AppDelegate.mm */; };
 		2D0723B62082FA050030996F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723B32082FA050030996F /* main.m */; };
 		2D0723DB2082FC6B0030996F /* UIView+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723D92082FC6A0030996F /* UIView+MJExtension.m */; };
 		2D0723DF2082FDD00030996F /* UIImage+ImageWithColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723DE2082FDD00030996F /* UIImage+ImageWithColor.m */; };
-		2D0723E32082FEB30030996F /* CommunityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723E12082FEB30030996F /* CommunityViewController.m */; };
 		2D0723E42082FEB30030996F /* CommunityViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0723E22082FEB30030996F /* CommunityViewController.xib */; };
 		2D0723E82082FEC10030996F /* MineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723E62082FEC10030996F /* MineViewController.m */; };
 		2D0723E92082FEC10030996F /* MineViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0723E72082FEC10030996F /* MineViewController.xib */; };
@@ -21,7 +19,6 @@
 		2D0723EE2082FED20030996F /* ShoppingCartViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0723EC2082FED20030996F /* ShoppingCartViewController.xib */; };
 		2D0723F22082FEE40030996F /* CollegeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723F02082FEE40030996F /* CollegeViewController.m */; };
 		2D0723F32082FEE40030996F /* CollegeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0723F12082FEE40030996F /* CollegeViewController.xib */; };
-		2D0723F72082FEF10030996F /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723F52082FEF10030996F /* HomeViewController.m */; };
 		2D0723F82082FEF10030996F /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0723F62082FEF10030996F /* HomeViewController.xib */; };
 		2D07252B208309870030996F /* 社区-未选中.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D0723FC208309460030996F /* 社区-未选中.png */; };
 		2D07252C208309870030996F /* 朋友圈@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D0723FD208309460030996F /* 朋友圈@2x.png */; };
@@ -362,6 +359,7 @@
 		2D0726CB20839F6C0030996F /* MessageListViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726C920839F6C0030996F /* MessageListViewCell.xib */; };
 		2D0726CE2084D1820030996F /* LoadData.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726CC2084D1820030996F /* LoadData.m */; };
 		4AF3CB1E303E7136091D8180 /* libPods-appmall.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 87A62A5DA8A5214778B42E06 /* libPods-appmall.a */; };
+		F202785D2085058200033D66 /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2D0723B22082FA050030996F /* AppDelegate.mm */; };
 		F2FE5AA82084E65600837C02 /* SCMineTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F2FE5AA72084E65600837C02 /* SCMineTableViewCell.m */; };
 		F2FE5AAF2084E68500837C02 /* SCUserInfoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = F2FE5AAE2084E68400837C02 /* SCUserInfoModel.m */; };
 		F2FE5AB12084E71600837C02 /* mine.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2FE5AB02084E71600837C02 /* mine.xcassets */; };
@@ -3241,6 +3239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F202785D2085058200033D66 /* AppDelegate.mm in Sources */,
 				F2FE5BD72084F87900837C02 /* CouponsOrderCell.m in Sources */,
 				F2FE5B572084EB8300837C02 /* HeaderCollectionReusableView.m in Sources */,
 				F2FE5BE82084F97700837C02 /* FFAlertView.m in Sources */,
@@ -3316,7 +3315,6 @@
 				F2FE5B4F2084EB8300837C02 /* LuckyDrawViewController.m in Sources */,
 				F2FE5C602084FB4C00837C02 /* HXDatePhotoCollectionViewLayoutAttributes.m in Sources */,
 				F2FE5B662084EB8300837C02 /* SCWaitReleaseCommentViewController.m in Sources */,
-				2D0723E32082FEB30030996F /* CommunityViewController.m in Sources */,
 				F2FE5C732084FB4C00837C02 /* HXPhotoResultModel.m in Sources */,
 				F2FE5C842084FB4C00837C02 /* UIView+HXExtension.m in Sources */,
 				F2FE5BEB20847921006E274A /* NSString+Common.m in Sources */,
@@ -3348,13 +3346,11 @@
 				F2FE5B732084EB8300837C02 /* SCLogisticsDetailCell.m in Sources */,
 				F2FE5BFE20847921006E274A /* TAPageControl.m in Sources */,
 				F2FE5B4A2084EB8300837C02 /* CouponsDetailViewController.m in Sources */,
-				2D0723F72082FEF10030996F /* HomeViewController.m in Sources */,
 				F2FE5BC52084F57A00837C02 /* YYCache.m in Sources */,
 				F2FE5B912084EED000837C02 /* SCShoppingCarConfirmOrderCell.m in Sources */,
 				F2FE5B472084EB8300837C02 /* SelecteAreaModel.m in Sources */,
 				F2FE5B4E2084EB8300837C02 /* YSMemberPointViewController.m in Sources */,
 				F2FE5B512084EB8300837C02 /* SCIntegralGoodsDetailVC.m in Sources */,
-				2D0723B52082FA050030996F /* AppDelegate.mm in Sources */,
 				F2FE5B802084EE4500837C02 /* UIButton+XN.m in Sources */,
 				F2FE5B7A2084EB8300837C02 /* YSCollectionCell.m in Sources */,
 				F2FE5B492084EB8300837C02 /* MyAddressTableViewCell.m in Sources */,
@@ -3365,15 +3361,12 @@
 				2D07267C208311CB0030996F /* HistorySearchCell.m in Sources */,
 				2D07267B208311CB0030996F /* DWQTagView.m in Sources */,
 				2D072682208325E20030996F /* WBAdsImgView.m in Sources */,
-				2D0723E32082FEB30030996F /* CommunityViewController.m in Sources */,
 				2D0726C02083929D0030996F /* HonourListViewCell.m in Sources */,
 				2D072685208325F90030996F /* ADSModel.m in Sources */,
 				2D07265F208310810030996F /* DWQSearchController.m in Sources */,
 				2D0726CA20839F6C0030996F /* MessageListViewCell.m in Sources */,
 				2D0726AC2083923A0030996F /* MedieaListViewController.m in Sources */,
 				2D07267D208311CB0030996F /* HotSerachCell.m in Sources */,
-				2D0723F72082FEF10030996F /* HomeViewController.m in Sources */,
-				2D0723B52082FA050030996F /* AppDelegate.m in Sources */,
 				2D072671208311BE0030996F /* UIViewExt.m in Sources */,
 				2D0726A2208332360030996F /* RecommendViewCell.m in Sources */,
 				2D0726C520839EE50030996F /* MessageViewController.m in Sources */,
