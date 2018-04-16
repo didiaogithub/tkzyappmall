@@ -24,13 +24,19 @@ PODS:
     - SDWebImage/Core (= 4.2.3)
   - SDWebImage/Core (4.2.3)
 
+
 DEPENDENCIES:
   - AFNetworking (~> 3.1.0)
   - JGProgressHUD (~> 1.4)
   - Masonry (~> 1.1.0)
   - MBProgressHUD (~> 0.6)
   - Realm (~> 3.2.0)
-  - SDWebImage (~> 4.2.3)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - MBProgressHUD
+    - SDWebImage
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
@@ -41,5 +47,9 @@ SPEC CHECKSUMS:
   SDWebImage: 791bb72962b3492327ddcac4b1880bd1b5458431
 
 PODFILE CHECKSUM: ffe7f4c00814dbd90f4775576ef1b55b91765b8f
+
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+PODFILE CHECKSUM: 3c476ce438129b4606865b60d68d748a012555eb
 
 COCOAPODS: 1.4.0

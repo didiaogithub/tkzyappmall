@@ -10,4 +10,5 @@ target 'appmall' do
   pod 'SDWebImage', '~> 4.2.3’
   pod 'Realm', '~> 3.2.0’
   pod 'JGProgressHUD', '~> 1.4’
+
 end

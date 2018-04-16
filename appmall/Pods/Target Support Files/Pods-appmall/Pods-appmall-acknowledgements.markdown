@@ -70,6 +70,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+<<<<<<< HEAD
 ## Masonry
 
 Copyright (c) 2011-2012 Masonry Team - https://github.com/Masonry
@@ -347,6 +348,11 @@ regulations.
 ## SDWebImage
 
 Copyright (c) 2009-2017 Olivier Poitrey rs@dailymotion.com
+=======
+## SDWebImage
+
+Copyright (c) 2016 Olivier Poitrey rs@dailymotion.com
+>>>>>>> 1e21bc41dac1687dce3dd73ef712d528302601c7
  
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
