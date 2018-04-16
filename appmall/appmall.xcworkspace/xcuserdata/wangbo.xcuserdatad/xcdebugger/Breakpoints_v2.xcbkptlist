@@ -9,13 +9,13 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "appmall/Appdelegate/AppDelegate.m"
-            timestampString = "545459499.8616641"
+            filePath = "appmall/Classes/Home/ViewController/HomeViewController.m"
+            timestampString = "545577590.704296"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
-            landmarkName = "-setNewFeature"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "-setMenu"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

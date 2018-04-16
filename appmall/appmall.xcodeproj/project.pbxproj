@@ -326,6 +326,41 @@
 		2D072657208309870030996F /* 无欠款@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D072528208309860030996F /* 无欠款@1x.png */; };
 		2D072658208309870030996F /* 社区-未选中@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D072529208309870030996F /* 社区-未选中@3x.png */; };
 		2D072659208309870030996F /* 物流@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D07252A208309870030996F /* 物流@2x.png */; };
+		2D07265F208310810030996F /* DWQSearchController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D07265D208310810030996F /* DWQSearchController.m */; };
+		2D07266F208311BE0030996F /* 搜索-拷贝@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D072669208311BE0030996F /* 搜索-拷贝@3x.png */; };
+		2D072670208311BE0030996F /* ic_close_grey2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D07266A208311BE0030996F /* ic_close_grey2.png */; };
+		2D072671208311BE0030996F /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D07266B208311BE0030996F /* UIViewExt.m */; };
+		2D072672208311BE0030996F /* DWQSearchBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D07266D208311BE0030996F /* DWQSearchBar.m */; };
+		2D072673208311BE0030996F /* 搜索-拷贝@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D07266E208311BE0030996F /* 搜索-拷贝@2x.png */; };
+		2D07267B208311CB0030996F /* DWQTagView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D072677208311CA0030996F /* DWQTagView.m */; };
+		2D07267C208311CB0030996F /* HistorySearchCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D072678208311CA0030996F /* HistorySearchCell.m */; };
+		2D07267D208311CB0030996F /* HotSerachCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D072679208311CA0030996F /* HotSerachCell.m */; };
+		2D07267E208311CB0030996F /* HistorySearchCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D07267A208311CA0030996F /* HistorySearchCell.xib */; };
+		2D072682208325E20030996F /* WBAdsImgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D072681208325E20030996F /* WBAdsImgView.m */; };
+		2D072685208325F90030996F /* ADSModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D072683208325F90030996F /* ADSModel.m */; };
+		2D0726882083277A0030996F /* BaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726872083277A0030996F /* BaseModel.m */; };
+		2D07268A20832B0F0030996F /* HomeMenuItemsConfig.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2D07268920832B0F0030996F /* HomeMenuItemsConfig.plist */; };
+		2D07268E20832B1C0030996F /* HomeMenuItemView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D07268B20832B1C0030996F /* HomeMenuItemView.xib */; };
+		2D07268F20832B1C0030996F /* HomeMenuItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D07268D20832B1C0030996F /* HomeMenuItemView.m */; };
+		2D0726A2208332360030996F /* RecommendViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726A0208332360030996F /* RecommendViewCell.m */; };
+		2D0726A3208332360030996F /* RecommendViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726A1208332360030996F /* RecommendViewCell.xib */; };
+		2D0726A72083371B0030996F /* RecommendCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726A52083371B0030996F /* RecommendCollectionViewCell.m */; };
+		2D0726A82083371B0030996F /* RecommendCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726A62083371B0030996F /* RecommendCollectionViewCell.xib */; };
+		2D0726AC2083923A0030996F /* MedieaListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726AA2083923A0030996F /* MedieaListViewController.m */; };
+		2D0726AD2083923A0030996F /* MedieaListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726AB2083923A0030996F /* MedieaListViewController.xib */; };
+		2D0726B12083924B0030996F /* MedieaDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726AF2083924B0030996F /* MedieaDetailViewController.m */; };
+		2D0726B22083924B0030996F /* MedieaDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726B02083924B0030996F /* MedieaDetailViewController.xib */; };
+		2D0726B62083926B0030996F /* HonourDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726B42083926B0030996F /* HonourDetailViewController.m */; };
+		2D0726B72083926B0030996F /* HonourDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726B52083926B0030996F /* HonourDetailViewController.xib */; };
+		2D0726BB2083928A0030996F /* MedieaListViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726B92083928A0030996F /* MedieaListViewCell.m */; };
+		2D0726BC2083928A0030996F /* MedieaListViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726BA2083928A0030996F /* MedieaListViewCell.xib */; };
+		2D0726C02083929D0030996F /* HonourListViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726BE2083929D0030996F /* HonourListViewCell.m */; };
+		2D0726C12083929D0030996F /* HonourListViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726BF2083929D0030996F /* HonourListViewCell.xib */; };
+		2D0726C520839EE50030996F /* MessageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726C320839EE50030996F /* MessageViewController.m */; };
+		2D0726C620839EE50030996F /* MessageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726C420839EE50030996F /* MessageViewController.xib */; };
+		2D0726CA20839F6C0030996F /* MessageListViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726C820839F6C0030996F /* MessageListViewCell.m */; };
+		2D0726CB20839F6C0030996F /* MessageListViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0726C920839F6C0030996F /* MessageListViewCell.xib */; };
+		2D0726CE2084D1820030996F /* LoadData.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0726CC2084D1820030996F /* LoadData.m */; };
 		4AF3CB1E303E7136091D8180 /* libPods-appmall.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 87A62A5DA8A5214778B42E06 /* libPods-appmall.a */; };
 		F2FED0672081A1ED00DFBD77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2FED0662081A1ED00DFBD77 /* Assets.xcassets */; };
 		F2FED06A2081A1ED00DFBD77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2FED0682081A1ED00DFBD77 /* LaunchScreen.storyboard */; };
@@ -683,6 +718,61 @@
 		2D072528208309860030996F /* 无欠款@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "无欠款@1x.png"; sourceTree = "<group>"; };
 		2D072529208309870030996F /* 社区-未选中@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "社区-未选中@3x.png"; sourceTree = "<group>"; };
 		2D07252A208309870030996F /* 物流@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "物流@2x.png"; sourceTree = "<group>"; };
+		2D07265D208310810030996F /* DWQSearchController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DWQSearchController.m; sourceTree = "<group>"; };
+		2D07265E208310810030996F /* DWQSearchController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DWQSearchController.h; sourceTree = "<group>"; };
+		2D072668208311BE0030996F /* UIViewExt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewExt.h; sourceTree = "<group>"; };
+		2D072669208311BE0030996F /* 搜索-拷贝@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "搜索-拷贝@3x.png"; sourceTree = "<group>"; };
+		2D07266A208311BE0030996F /* ic_close_grey2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_close_grey2.png; sourceTree = "<group>"; };
+		2D07266B208311BE0030996F /* UIViewExt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewExt.m; sourceTree = "<group>"; };
+		2D07266C208311BE0030996F /* DWQSearchBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DWQSearchBar.h; sourceTree = "<group>"; };
+		2D07266D208311BE0030996F /* DWQSearchBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DWQSearchBar.m; sourceTree = "<group>"; };
+		2D07266E208311BE0030996F /* 搜索-拷贝@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "搜索-拷贝@2x.png"; sourceTree = "<group>"; };
+		2D072674208311CA0030996F /* HistorySearchCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HistorySearchCell.h; sourceTree = "<group>"; };
+		2D072675208311CA0030996F /* HotSerachCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HotSerachCell.h; sourceTree = "<group>"; };
+		2D072676208311CA0030996F /* DWQTagView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DWQTagView.h; sourceTree = "<group>"; };
+		2D072677208311CA0030996F /* DWQTagView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DWQTagView.m; sourceTree = "<group>"; };
+		2D072678208311CA0030996F /* HistorySearchCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HistorySearchCell.m; sourceTree = "<group>"; };
+		2D072679208311CA0030996F /* HotSerachCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HotSerachCell.m; sourceTree = "<group>"; };
+		2D07267A208311CA0030996F /* HistorySearchCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HistorySearchCell.xib; sourceTree = "<group>"; };
+		2D072680208325E20030996F /* WBAdsImgView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBAdsImgView.h; sourceTree = "<group>"; };
+		2D072681208325E20030996F /* WBAdsImgView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBAdsImgView.m; sourceTree = "<group>"; };
+		2D072683208325F90030996F /* ADSModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADSModel.m; sourceTree = "<group>"; };
+		2D072684208325F90030996F /* ADSModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADSModel.h; sourceTree = "<group>"; };
+		2D072686208327790030996F /* BaseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseModel.h; sourceTree = "<group>"; };
+		2D0726872083277A0030996F /* BaseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseModel.m; sourceTree = "<group>"; };
+		2D07268920832B0F0030996F /* HomeMenuItemsConfig.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = HomeMenuItemsConfig.plist; sourceTree = "<group>"; };
+		2D07268B20832B1C0030996F /* HomeMenuItemView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeMenuItemView.xib; sourceTree = "<group>"; };
+		2D07268C20832B1C0030996F /* HomeMenuItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeMenuItemView.h; sourceTree = "<group>"; };
+		2D07268D20832B1C0030996F /* HomeMenuItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeMenuItemView.m; sourceTree = "<group>"; };
+		2D07269F208332360030996F /* RecommendViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RecommendViewCell.h; sourceTree = "<group>"; };
+		2D0726A0208332360030996F /* RecommendViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RecommendViewCell.m; sourceTree = "<group>"; };
+		2D0726A1208332360030996F /* RecommendViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecommendViewCell.xib; sourceTree = "<group>"; };
+		2D0726A42083371B0030996F /* RecommendCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RecommendCollectionViewCell.h; sourceTree = "<group>"; };
+		2D0726A52083371B0030996F /* RecommendCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RecommendCollectionViewCell.m; sourceTree = "<group>"; };
+		2D0726A62083371B0030996F /* RecommendCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecommendCollectionViewCell.xib; sourceTree = "<group>"; };
+		2D0726A92083923A0030996F /* MedieaListViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MedieaListViewController.h; sourceTree = "<group>"; };
+		2D0726AA2083923A0030996F /* MedieaListViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MedieaListViewController.m; sourceTree = "<group>"; };
+		2D0726AB2083923A0030996F /* MedieaListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MedieaListViewController.xib; sourceTree = "<group>"; };
+		2D0726AE2083924B0030996F /* MedieaDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MedieaDetailViewController.h; sourceTree = "<group>"; };
+		2D0726AF2083924B0030996F /* MedieaDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MedieaDetailViewController.m; sourceTree = "<group>"; };
+		2D0726B02083924B0030996F /* MedieaDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MedieaDetailViewController.xib; sourceTree = "<group>"; };
+		2D0726B32083926B0030996F /* HonourDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HonourDetailViewController.h; sourceTree = "<group>"; };
+		2D0726B42083926B0030996F /* HonourDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HonourDetailViewController.m; sourceTree = "<group>"; };
+		2D0726B52083926B0030996F /* HonourDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HonourDetailViewController.xib; sourceTree = "<group>"; };
+		2D0726B82083928A0030996F /* MedieaListViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MedieaListViewCell.h; sourceTree = "<group>"; };
+		2D0726B92083928A0030996F /* MedieaListViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MedieaListViewCell.m; sourceTree = "<group>"; };
+		2D0726BA2083928A0030996F /* MedieaListViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MedieaListViewCell.xib; sourceTree = "<group>"; };
+		2D0726BD2083929D0030996F /* HonourListViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HonourListViewCell.h; sourceTree = "<group>"; };
+		2D0726BE2083929D0030996F /* HonourListViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HonourListViewCell.m; sourceTree = "<group>"; };
+		2D0726BF2083929D0030996F /* HonourListViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HonourListViewCell.xib; sourceTree = "<group>"; };
+		2D0726C220839EE50030996F /* MessageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MessageViewController.h; sourceTree = "<group>"; };
+		2D0726C320839EE50030996F /* MessageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MessageViewController.m; sourceTree = "<group>"; };
+		2D0726C420839EE50030996F /* MessageViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MessageViewController.xib; sourceTree = "<group>"; };
+		2D0726C720839F6C0030996F /* MessageListViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MessageListViewCell.h; sourceTree = "<group>"; };
+		2D0726C820839F6C0030996F /* MessageListViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MessageListViewCell.m; sourceTree = "<group>"; };
+		2D0726C920839F6C0030996F /* MessageListViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MessageListViewCell.xib; sourceTree = "<group>"; };
+		2D0726CC2084D1820030996F /* LoadData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadData.m; sourceTree = "<group>"; };
+		2D0726CD2084D1820030996F /* LoadData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadData.h; sourceTree = "<group>"; };
 		87A62A5DA8A5214778B42E06 /* libPods-appmall.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-appmall.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D94648FAFB3AE60D42DC59 /* Pods-appmall.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-appmall.debug.xcconfig"; path = "Pods/Target Support Files/Pods-appmall/Pods-appmall.debug.xcconfig"; sourceTree = "<group>"; };
 		F2FED05A2081A1ED00DFBD77 /* appmall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appmall.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -739,6 +829,9 @@
 		2D0723B92082FA570030996F /* Lib */ = {
 			isa = PBXGroup;
 			children = (
+				2D0726CD2084D1820030996F /* LoadData.h */,
+				2D0726CC2084D1820030996F /* LoadData.m */,
+				2D07267F208311CE0030996F /* searchBar */,
 				2D0723DA2082FC6A0030996F /* UIView+MJExtension.h */,
 				2D0723D92082FC6A0030996F /* UIView+MJExtension.m */,
 				2D0723DD2082FDD00030996F /* UIImage+ImageWithColor.h */,
@@ -761,6 +854,7 @@
 		2D0723BB2082FA770030996F /* Config */ = {
 			isa = PBXGroup;
 			children = (
+				2D07268920832B0F0030996F /* HomeMenuItemsConfig.plist */,
 			);
 			path = Config;
 			sourceTree = "<group>";
@@ -802,6 +896,18 @@
 				2D0723F42082FEF10030996F /* HomeViewController.h */,
 				2D0723F52082FEF10030996F /* HomeViewController.m */,
 				2D0723F62082FEF10030996F /* HomeViewController.xib */,
+				2D0726A92083923A0030996F /* MedieaListViewController.h */,
+				2D0726AA2083923A0030996F /* MedieaListViewController.m */,
+				2D0726AB2083923A0030996F /* MedieaListViewController.xib */,
+				2D0726AE2083924B0030996F /* MedieaDetailViewController.h */,
+				2D0726AF2083924B0030996F /* MedieaDetailViewController.m */,
+				2D0726B02083924B0030996F /* MedieaDetailViewController.xib */,
+				2D0726B32083926B0030996F /* HonourDetailViewController.h */,
+				2D0726B42083926B0030996F /* HonourDetailViewController.m */,
+				2D0726B52083926B0030996F /* HonourDetailViewController.xib */,
+				2D0726C220839EE50030996F /* MessageViewController.h */,
+				2D0726C320839EE50030996F /* MessageViewController.m */,
+				2D0726C420839EE50030996F /* MessageViewController.xib */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -809,6 +915,8 @@
 		2D0723C02082FAAC0030996F /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				2D072684208325F90030996F /* ADSModel.h */,
+				2D072683208325F90030996F /* ADSModel.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -816,6 +924,26 @@
 		2D0723C12082FAB20030996F /* View */ = {
 			isa = PBXGroup;
 			children = (
+				2D07268C20832B1C0030996F /* HomeMenuItemView.h */,
+				2D07268D20832B1C0030996F /* HomeMenuItemView.m */,
+				2D07268B20832B1C0030996F /* HomeMenuItemView.xib */,
+				2D072680208325E20030996F /* WBAdsImgView.h */,
+				2D072681208325E20030996F /* WBAdsImgView.m */,
+				2D07269F208332360030996F /* RecommendViewCell.h */,
+				2D0726A0208332360030996F /* RecommendViewCell.m */,
+				2D0726A1208332360030996F /* RecommendViewCell.xib */,
+				2D0726A42083371B0030996F /* RecommendCollectionViewCell.h */,
+				2D0726A52083371B0030996F /* RecommendCollectionViewCell.m */,
+				2D0726A62083371B0030996F /* RecommendCollectionViewCell.xib */,
+				2D0726B82083928A0030996F /* MedieaListViewCell.h */,
+				2D0726B92083928A0030996F /* MedieaListViewCell.m */,
+				2D0726BA2083928A0030996F /* MedieaListViewCell.xib */,
+				2D0726BD2083929D0030996F /* HonourListViewCell.h */,
+				2D0726BE2083929D0030996F /* HonourListViewCell.m */,
+				2D0726BF2083929D0030996F /* HonourListViewCell.xib */,
+				2D0726C720839F6C0030996F /* MessageListViewCell.h */,
+				2D0726C820839F6C0030996F /* MessageListViewCell.m */,
+				2D0726C920839F6C0030996F /* MessageListViewCell.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -985,6 +1113,8 @@
 		2D0723D82082FBE90030996F /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				2D072686208327790030996F /* BaseModel.h */,
+				2D0726872083277A0030996F /* BaseModel.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -1299,6 +1429,29 @@
 			path = image;
 			sourceTree = "<group>";
 		};
+		2D07267F208311CE0030996F /* searchBar */ = {
+			isa = PBXGroup;
+			children = (
+				2D072676208311CA0030996F /* DWQTagView.h */,
+				2D072677208311CA0030996F /* DWQTagView.m */,
+				2D072674208311CA0030996F /* HistorySearchCell.h */,
+				2D072678208311CA0030996F /* HistorySearchCell.m */,
+				2D07267A208311CA0030996F /* HistorySearchCell.xib */,
+				2D072675208311CA0030996F /* HotSerachCell.h */,
+				2D072679208311CA0030996F /* HotSerachCell.m */,
+				2D07266C208311BE0030996F /* DWQSearchBar.h */,
+				2D07266D208311BE0030996F /* DWQSearchBar.m */,
+				2D07266A208311BE0030996F /* ic_close_grey2.png */,
+				2D072668208311BE0030996F /* UIViewExt.h */,
+				2D07266B208311BE0030996F /* UIViewExt.m */,
+				2D07266E208311BE0030996F /* 搜索-拷贝@2x.png */,
+				2D072669208311BE0030996F /* 搜索-拷贝@3x.png */,
+				2D07265E208310810030996F /* DWQSearchController.h */,
+				2D07265D208310810030996F /* DWQSearchController.m */,
+			);
+			path = searchBar;
+			sourceTree = "<group>";
+		};
 		75E8AD2EC6E93F62679C40DC /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -1493,6 +1646,7 @@
 				2D07254D208309870030996F /* 点赞灰色@3x.png in Resources */,
 				F2FED06A2081A1ED00DFBD77 /* LaunchScreen.storyboard in Resources */,
 				2D072604208309870030996F /* 已使用@2x.png in Resources */,
+				2D07268E20832B1C0030996F /* HomeMenuItemView.xib in Resources */,
 				2D07258A208309870030996F /* 搜索@2x.png in Resources */,
 				2D07262B208309870030996F /* 图层63@2x.png in Resources */,
 				2D0725FE208309870030996F /* 选中1@2x.png in Resources */,
@@ -1530,6 +1684,7 @@
 				2D0725D1208309870030996F /* 组添加.png in Resources */,
 				2D0725E0208309870030996F /* 上拉箭头(3).png in Resources */,
 				2D072573208309870030996F /* 选@3x.png in Resources */,
+				2D0726BC2083928A0030996F /* MedieaListViewCell.xib in Resources */,
 				2D07253C208309870030996F /* 我的收藏默认@2x.png in Resources */,
 				2D0725DD208309870030996F /* 使用反馈@3x.png in Resources */,
 				2D0725B5208309870030996F /* 微信.png in Resources */,
@@ -1552,17 +1707,20 @@
 				2D07255D208309870030996F /* 收藏(2)@2x.png in Resources */,
 				2D0725F7208309870030996F /* dkw_还款.png in Resources */,
 				2D07264C208309870030996F /* 选中1.png in Resources */,
+				2D0726CB20839F6C0030996F /* MessageListViewCell.xib in Resources */,
 				2D072639208309870030996F /* 添加照片.png in Resources */,
 				2D0725BC208309870030996F /* 确认订单箭头@3x.png in Resources */,
 				2D072656208309870030996F /* 未选中@3x.png in Resources */,
 				2D0725C8208309870030996F /* 组2@2x.png in Resources */,
 				2D072541208309870030996F /* 购物车默认.png in Resources */,
+				2D0726B72083926B0030996F /* HonourDetailViewController.xib in Resources */,
 				2D072636208309870030996F /* 无课程@1x.png in Resources */,
 				2D0725A2208309870030996F /* 待发货.png in Resources */,
 				2D0725A5208309870030996F /* 关闭按钮.png in Resources */,
 				2D072595208309870030996F /* 评论2@3x.png in Resources */,
 				2D0725D4208309870030996F /* 待收货@2x.png in Resources */,
 				2D0725C4208309870030996F /* 好评度@1x.png in Resources */,
+				2D0726C12083929D0030996F /* HonourListViewCell.xib in Resources */,
 				2D07252B208309870030996F /* 社区-未选中.png in Resources */,
 				F2FED0672081A1ED00DFBD77 /* Assets.xcassets in Resources */,
 				2D072610208309870030996F /* iconcopy31拷贝@3x.png in Resources */,
@@ -1608,12 +1766,14 @@
 				2D0725C1208309870030996F /* 选择分期@2x.png in Resources */,
 				2D0725D3208309870030996F /* 发票管理.png in Resources */,
 				2D0725C5208309870030996F /* 删除.png in Resources */,
+				2D0726AD2083923A0030996F /* MedieaListViewController.xib in Resources */,
 				2D0725FC208309870030996F /* 默认头像@1x.png in Resources */,
 				2D072600208309870030996F /* dkw_还款@2x.png in Resources */,
 				2D0725CB208309870030996F /* 选中默认@2x.png in Resources */,
 				2D07256C208309870030996F /* 欠款.png in Resources */,
 				2D072583208309870030996F /* 组10@2x.png in Resources */,
 				2D07262C208309870030996F /* 组10.png in Resources */,
+				2D0726A3208332360030996F /* RecommendViewCell.xib in Resources */,
 				2D072650208309870030996F /* 购物车-导航@1x.png in Resources */,
 				2D072651208309870030996F /* 组11@2x.png in Resources */,
 				2D07257F208309870030996F /* 我的收藏默认.png in Resources */,
@@ -1639,9 +1799,12 @@
 				2D072590208309870030996F /* 默认未选.png in Resources */,
 				2D0725EF208309870030996F /* 中金支付@3x.png in Resources */,
 				2D072586208309870030996F /* 消息图标.png in Resources */,
+				2D0726B22083924B0030996F /* MedieaDetailViewController.xib in Resources */,
+				2D0726C620839EE50030996F /* MessageViewController.xib in Resources */,
 				2D0725E3208309870030996F /* 待发货@2x.png in Resources */,
 				2D072570208309870030996F /* 删除@2x.png in Resources */,
 				2D07252D208309870030996F /* QQ.png in Resources */,
+				2D07267E208311CB0030996F /* HistorySearchCell.xib in Resources */,
 				2D0725E5208309870030996F /* 新人礼包@3x.png in Resources */,
 				2D0725F4208309870030996F /* 关闭按钮@2x.png in Resources */,
 				2D0725C3208309870030996F /* 未选择.png in Resources */,
@@ -1702,6 +1865,7 @@
 				2D0723F32082FEE40030996F /* CollegeViewController.xib in Resources */,
 				2D07255F208309870030996F /* 已过期@2x.png in Resources */,
 				2D07263A208309870030996F /* 搜索@3x.png in Resources */,
+				2D0726A82083371B0030996F /* RecommendCollectionViewCell.xib in Resources */,
 				2D0725A1208309870030996F /* 收藏(2).png in Resources */,
 				2D0725A0208309870030996F /* 支付宝@2x.png in Resources */,
 				2D0725A3208309870030996F /* 购物车默认@2x.png in Resources */,
@@ -1730,6 +1894,7 @@
 				2D072594208309870030996F /* 客服@2x.png in Resources */,
 				2D07256A208309870030996F /* 首页-未选中@3x.png in Resources */,
 				2D0725B8208309870030996F /* 社区.png in Resources */,
+				2D072670208311BE0030996F /* ic_close_grey2.png in Resources */,
 				2D07259D208309870030996F /* 微信@3x.png in Resources */,
 				2D0725C7208309870030996F /* 时间.png in Resources */,
 				2D0725F9208309870030996F /* 使用反馈.png in Resources */,
@@ -1752,6 +1917,7 @@
 				2D072638208309870030996F /* 组添加@3x.png in Resources */,
 				2D072620208309870030996F /* 待灰.png in Resources */,
 				2D07262A208309870030996F /* 焦点跟踪@2x.png in Resources */,
+				2D07266F208311BE0030996F /* 搜索-拷贝@3x.png in Resources */,
 				2D0725AA208309870030996F /* 已使用@1x.png in Resources */,
 				2D0725CF208309870030996F /* 无课程@2x.png in Resources */,
 				2D0725EC208309870030996F /* 我的订单默认’.png in Resources */,
@@ -1765,9 +1931,11 @@
 				2D0725C0208309870030996F /* 评论2@2x.png in Resources */,
 				2D07253A208309870030996F /* bg@2x.png in Resources */,
 				2D0725D0208309870030996F /* 查看详情@2x.png in Resources */,
+				2D07268A20832B0F0030996F /* HomeMenuItemsConfig.plist in Resources */,
 				2D072566208309870030996F /* 发票管@3x.png in Resources */,
 				2D072628208309870030996F /* 焦点跟踪选中状态.png in Resources */,
 				2D072562208309870030996F /* 时间@2x.png in Resources */,
+				2D072673208311BE0030996F /* 搜索-拷贝@2x.png in Resources */,
 				2D072534208309870030996F /* 消息图标@2x.png in Resources */,
 				2D07259B208309870030996F /* 确认订单箭头@2x.png in Resources */,
 				2D072626208309870030996F /* 社区搜索.png in Resources */,
@@ -1832,15 +2000,35 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D0723B62082FA050030996F /* main.m in Sources */,
+				2D0726CE2084D1820030996F /* LoadData.m in Sources */,
+				2D07268F20832B1C0030996F /* HomeMenuItemView.m in Sources */,
+				2D0726B62083926B0030996F /* HonourDetailViewController.m in Sources */,
 				2D0723DF2082FDD00030996F /* UIImage+ImageWithColor.m in Sources */,
 				2D0723DB2082FC6B0030996F /* UIView+MJExtension.m in Sources */,
 				2D0723ED2082FED20030996F /* ShoppingCartViewController.m in Sources */,
+				2D0726B12083924B0030996F /* MedieaDetailViewController.m in Sources */,
+				2D072672208311BE0030996F /* DWQSearchBar.m in Sources */,
 				2D0723F22082FEE40030996F /* CollegeViewController.m in Sources */,
+				2D07267C208311CB0030996F /* HistorySearchCell.m in Sources */,
+				2D07267B208311CB0030996F /* DWQTagView.m in Sources */,
+				2D072682208325E20030996F /* WBAdsImgView.m in Sources */,
 				2D0723E32082FEB30030996F /* CommunityViewController.m in Sources */,
+				2D0726C02083929D0030996F /* HonourListViewCell.m in Sources */,
+				2D072685208325F90030996F /* ADSModel.m in Sources */,
+				2D07265F208310810030996F /* DWQSearchController.m in Sources */,
+				2D0726CA20839F6C0030996F /* MessageListViewCell.m in Sources */,
+				2D0726AC2083923A0030996F /* MedieaListViewController.m in Sources */,
+				2D07267D208311CB0030996F /* HotSerachCell.m in Sources */,
 				2D0723F72082FEF10030996F /* HomeViewController.m in Sources */,
 				2D0723B52082FA050030996F /* AppDelegate.m in Sources */,
+				2D072671208311BE0030996F /* UIViewExt.m in Sources */,
+				2D0726A2208332360030996F /* RecommendViewCell.m in Sources */,
+				2D0726C520839EE50030996F /* MessageViewController.m in Sources */,
 				2D0723B12082F9EF0030996F /* NewFeatureViewController.m in Sources */,
 				2D0723B02082F9EF0030996F /* BaseViewController.m in Sources */,
+				2D0726882083277A0030996F /* BaseModel.m in Sources */,
+				2D0726BB2083928A0030996F /* MedieaListViewCell.m in Sources */,
+				2D0726A72083371B0030996F /* RecommendCollectionViewCell.m in Sources */,
 				2D0723E82082FEC10030996F /* MineViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
